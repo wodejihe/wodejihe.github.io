@@ -3,6 +3,7 @@
 
 # google
 ssl.google-analytics.com
+twitter.com
 
 # [public]
 cdn.jsdelivr.net
