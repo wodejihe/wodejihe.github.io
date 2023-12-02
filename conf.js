@@ -42,10 +42,10 @@ jsproxy_config({
 
         // 免费版（低权重，分摊一些成本）
         // 每个账号每天 10 万次免费请求，但有频率限制
-        //'b.007.workers.dev': 1,
-        //'b.hehe.workers.dev': 1,
-        //'b.lulu.workers.dev': 1,
-        //'b.jsproxy.workers.dev': 1,
+        'b.007.workers.dev': 1,
+        'b.hehe.workers.dev': 1,
+        'b.lulu.workers.dev': 1,
+        'b.jsproxy.workers.dev': 1,
       }
     }
   },
@@ -85,8 +85,29 @@ jsproxy_config({
    * URL 自定义处理（设计中）
    */
   url_handler: {
-    'https://w.wallhaven.vip': {
-      replace: 'https://example1.wallhaven.vip/-----https://w.wallhaven.cc'
+    'https://google.com': {
+      replace: 'https://baidu.com'
+    },
+        'https://youtube.com': {
+      replace: 'https://baidu.com'
+    },
+        'https://facebook.com': {
+      replace: 'https://baidu.com'
+    },
+        'https://twitter.com': {
+      replace: 'https://baidu.com'
+    },
+        'https://xvideos.com': {
+      replace: 'https://baidu.com'
+    },
+        'https://tumblr.com': {
+      replace: 'https://baidu.com'
+    },
+        'https://xnnx.com': {
+      replace: 'https://baidu.com'
+    },
+        'https://t66y.com': {
+      replace: 'https://baidu.com'
     },
     'https://www.pornhub.com/': {
       redir: 'https://php.net/'
