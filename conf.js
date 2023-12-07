@@ -86,25 +86,25 @@ jsproxy_config({
    */
   url_handler: {
     'https://google.com': {
-      replace: 'https://baidu.com'
+      redir: 'https://baidu.com'
     },
         'https://youtube.com': {
-      replace: 'https://baidu.com'
+      redir: 'https://baidu.com'
     },
         'https://facebook.com': {
-      replace: 'https://baidu.com'
+      redir: 'https://baidu.com'
     },
         'https://twitter.com': {
-      replace: 'https://baidu.com'
+      redir: 'https://baidu.com'
     },
         'https://xvideos.com': {
-      replace: 'https://baidu.com'
+      redir: 'https://baidu.com'
     },
         'https://tumblr.com': {
-      replace: 'https://baidu.com'
+      redir: 'https://baidu.com'
     },
         'https://xnnx.com': {
-      replace: 'https://baidu.com'
+      redir: 'https://baidu.com'
     },
         'https://t66y.com': {
       replace: 'https://baidu.com'
