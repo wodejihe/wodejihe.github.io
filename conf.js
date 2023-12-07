@@ -106,13 +106,13 @@ jsproxy_config({
         'https://xnnx.com': {
       redir: 'https://baidu.com'
     },
-        'https://t66y.com': {
+        'https://t66y.com/': {
       replace: 'https://baidu.com'
     },
     'https://www.pornhub.com/': {
       redir: 'https://php.net/'
     },
-    'https://www.tumblr.com': {
+    'https://www.tumblr.com/': {
       content: 'Hello World'
     },
   }
