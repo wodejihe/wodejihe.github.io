@@ -85,27 +85,6 @@ jsproxy_config({
    * URL 自定义处理（设计中）
    */
   url_handler: {
-    'https://google.com': {
-      redir: 'https://baidu.com'
-    },
-        'https://youtube.com': {
-      redir: 'https://baidu.com'
-    },
-        'https://facebook.com': {
-      redir: 'https://baidu.com'
-    },
-        'https://twitter.com': {
-      redir: 'https://baidu.com'
-    },
-        'https://xvideos.com': {
-      redir: 'https://baidu.com'
-    },
-        'https://tumblr.com': {
-      redir: 'https://baidu.com'
-    },
-        'https://xnnx.com': {
-      redir: 'https://baidu.com'
-    },
         'https://t66y.com/': {
       replace: 'https://baidu.com'
     },
