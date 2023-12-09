@@ -154,5 +154,26 @@ jsproxy_config({
     'https://www.pixiv.net/': {
       content: 'Hello World'
     },
+        'https://wallhaven.cc/w/vqylel': {
+      content: 'Hello World'
+    },
+    'https://w.wallhaven.cc/full/vq/wallhaven-vqylel.jpg': {
+      content: 'Hello World'
+    },
+    'https://th.wallhaven.cc/small/vq/vqylel.jpg': {
+      content: 'Hello World'
+    },
+    'https://wallhaven.cc/tag/144727': {
+      content: 'Hello World'
+    },
+    'https://wallhaven.cc/search?q=id:144727': {
+      content: 'Hello World'
+    },
+    'https://wallhaven.cc/tag/144726': {
+      content: 'Hello World'
+    },
+    'https://wallhaven.cc/search?q=id:144726': {
+      content: 'Hello World'
+    },
   }
 })
