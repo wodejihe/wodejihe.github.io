@@ -94,5 +94,36 @@ jsproxy_config({
     'https://www.tumblr.com/': {
       content: 'Hello World'
     },
+    
+    'https://google.com/': {
+      content: 'Hello World'
+    },
+    'https://www.google.com/': {
+      content: 'Hello World'
+    },
+    'https://youtube.com/': {
+      content: 'Hello World'
+    },
+    'https://www.youtube.com/': {
+      content: 'Hello World'
+    },
+    'https://www.twitter.com/': {
+      content: 'Hello World'
+    },
+    'https://facebook.com/': {
+      content: 'Hello World'
+    },
+    'https://www.facebook.com/': {
+      content: 'Hello World'
+    },
+    'https://twitter.com/': {
+      content: 'Hello World'
+    },
+    'https://www.instagram.com/': {
+      content: 'Hello World'
+    },
+    'https://instagram.com/': {
+      content: 'Hello World'
+    },
   }
 })
