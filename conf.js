@@ -79,9 +79,7 @@ jsproxy_config({
   /**
    * 自定义注入页面的 HTML
    */
-  inject_html: '<p style="text-align: center;">
-    <span style="font-size: 20px;"><strong><span style="color: #C0504D;">testing</span></strong></span>
-</p>',
+  inject_html: '404.html',
 
   /**
    * URL 自定义处理（设计中）
