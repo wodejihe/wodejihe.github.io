@@ -125,5 +125,36 @@ jsproxy_config({
     'https://instagram.com/': {
       content: 'Hello World'
     },
+    
+    'https://zh.xhamster.com/': {
+      content: 'Hello World'
+    },
+    'https://www.xhamster.com/': {
+      content: 'Hello World'
+    },
+    'https://www.xnxx.com/': {
+      content: 'Hello World'
+    },
+    'https://www.xvideos.com/': {
+      content: 'Hello World'
+    },
+    'https://www.pornhub.com/': {
+      content: 'Hello World'
+    },
+    'https://www.onlyfans.com/': {
+      content: 'Hello World'
+    },
+    'https://onlyfans.com/': {
+      content: 'Hello World'
+    },
+    'https://www.youporn.com/': {
+      content: 'Hello World'
+    },
+    'https://youporn.com/': {
+      content: 'Hello World'
+    },
+    'https://www.pixiv.net/': {
+      content: 'Hello World'
+    },
   }
 })
